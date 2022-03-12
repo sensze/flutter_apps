@@ -66,6 +66,30 @@ flutter:
     - assets/images/monkasel_2.webp
     - assets/images/monkasel_3.jpg
     - assets/images/monkasel_4.jpg
+    - assets/images/alun.jpg
+    - assets/images/alun_2.jpg
+    - assets/images/alun_3.jpg
+    - assets/images/alun_4.jpg
+    - assets/images/bonbin.jpg
+    - assets/images/bonbin_2.jpg
+    - assets/images/bonbin_3.jpg
+    - assets/images/bonbin_4.jpg
+    - assets/images/snq.jpg
+    - assets/images/snq_2.jpg
+    - assets/images/snq_3.jpg
+    - assets/images/snq_4.jpg
+    - assets/images/tupal.jpg
+    - assets/images/tupal_2.jpg
+    - assets/images/tupal_3.jpg
+    - assets/images/tupal_4.jpg
+    - assets/images/sat.jpg
+    - assets/images/sat_2.jpg
+    - assets/images/sat_3.jpeg
+    - assets/images/sat_4.jpg
+    - assets/images/tsby.png
+    - assets/images/tsby_2.jpg
+    - assets/images/tsby_3.jpg
+    - assets/images/tsby_4.jpg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
