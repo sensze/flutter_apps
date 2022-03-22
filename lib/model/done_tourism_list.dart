@@ -30,12 +30,15 @@ class DoneTourismList extends StatelessWidget{
               children: <Widget>[
                 Expanded(
                   flex: 1,
-                  child: Image(
-                    image: place.imageAssets != ''
-                        ? AssetImage(place.imageAssets) as ImageProvider
-                        : NetworkImage(place.image_1),
-                    fit: BoxFit.cover,
-                    height: 120,
+                  child: ClipRRect(
+                    borderRadius: BorderRadius.circular(7.0),
+                    child: Image(
+                      image: place.imageAssets != ''
+                          ? AssetImage(place.imageAssets) as ImageProvider
+                          : NetworkImage(place.image_1),
+                      fit: BoxFit.cover,
+                      height: 120,
+                    ),
                   ),
                 ),
                 Expanded(
