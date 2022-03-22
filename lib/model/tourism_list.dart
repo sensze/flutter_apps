@@ -23,7 +23,7 @@ class _TourismListState extends State<TourismList>{
       time: '08.00 - 16.00',
       price: 'Rp 5.000,-',
       description: """Monumen Kapal Selam, atau disingkat Monkasel, adalah sebuah museum kapal selam yang terdapat di Embong Kaliasin, Genteng, Surabaya. Terletak di pusat kota, monumen ini sebenarnya merupakan kapal selam KRI Pasopati 410, salah satu armada Angkatan Laut Republik Indonesia buatan Uni Soviet tahun 1952.""",
-      image_1: 'https://eastjavatrip.id/wp-content/uploads/2021/04/Monkasel-5.jpg',
+      image_1: 'https://res.cloudinary.com/wegowordpress/image/upload/v1474742724/20131027_123136_resized1-1_hhldse.jpg',
       image_2: 'assets/images/monkasel_2.webp',
       image_3: 'assets/images/monkasel_3.jpg',
       image_4: 'assets/images/monkasel_4.jpg',
